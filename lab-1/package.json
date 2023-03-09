@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  },
+  "name": "lab-1",
+  "version": "1.0.0",
+  "main": "es1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
